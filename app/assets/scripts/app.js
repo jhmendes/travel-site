@@ -12,5 +12,5 @@ new RevealOnScroll($('.testimonial'), '60%');
 var stickyHeader = new StickyHeader();
 
 var modal = new Modal();
-console.log(modal);
+console.log(modal); 
 
